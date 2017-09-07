@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hevibbook.github.io/minimize/sitemap.xml
